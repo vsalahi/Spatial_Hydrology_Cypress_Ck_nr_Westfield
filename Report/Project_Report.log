@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (MiKTeX 2.9.6210 64-bit) (preloaded format=pdflatex 2017.1.15)  1 AUG 2017 18:21
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (MiKTeX 2.9.6210 64-bit) (preloaded format=pdflatex 2017.1.15)  4 AUG 2017 00:41
 entering extended mode
 **./Project_Report.tex
 (Project_Report.tex
@@ -823,7 +823,7 @@ Package atveryend Info: Empty hook `AfterLastShipout' on input line 448.
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 448.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 448.
 Package rerunfilecheck Info: File `Project_Report.out' has not changed.
-(rerunfilecheck)             Checksum: 53472DCF45AB0ADEE7A3CC8E8B2660DA;184.
+(rerunfilecheck)             Checksum: CCA9423BF6B74FC537331CBD9F0D581E;235.
 
 
 LaTeX Warning: There were multiply-defined labels.
@@ -833,7 +833,7 @@ Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 448.
 Here is how much of TeX's memory you used:
  10859 strings out of 493329
  149777 string characters out of 3139063
- 379188 words of memory out of 3000000
+ 379203 words of memory out of 3000000
  14098 multiletter control sequences out of 15000+200000
  11085 words of font info for 40 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
@@ -850,7 +850,7 @@ fb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Pro
 gram Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Program Fil
 es/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmti12.pfb><C:/Program Files/MiKTe
 X 2.9/fonts/type1/public/amsfonts/cm/cmtt12.pfb>
-Output written on Project_Report.pdf (25 pages, 99170831 bytes).
+Output written on Project_Report.pdf (25 pages, 99170949 bytes).
 PDF statistics:
  341 PDF objects out of 1000 (max. 8388607)
  123 named destinations out of 1000 (max. 500000)
